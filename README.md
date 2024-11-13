@@ -6,7 +6,7 @@ El reto consistía en realizar pruebas exploratorias y de caja negra en tres dia
 - __Bugbank__(https://github.com/jhonatasmatos/bugbank-ui)
 - **Restful Booker**(https://github.com/mwinteringham/restful-booker).
 
-En este tiempo se los 6 integrantes del equipo debiamos conocernos y realizar un plan de pruebas para cada uno de los aplicativos, diseño y ejecución de casos de prueba, descubrimiento y documentación de errores así como exposición de resultados.  
+En este tiempo se los 6 integrantes del equipo debiamos conocernos y organizarnos para realizar un plan de pruebas para cada uno de los aplicativos, diseño y ejecución de casos de prueba, descubrimiento y documentación de errores así como exposición de resultados.  
 
 # Herramientas 
 ![Static Badge](https://img.shields.io/badge/Excel-black?style=for-the-badge&logoColor=white&color=%233CB371) ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C%C3%B3digos%20HTTP-%2373DC8C?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/ApiDoc-%230055DA?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
